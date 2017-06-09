@@ -1,0 +1,9 @@
+{
+  "name": "registry",
+  "description": "a web front-end for the docker registry",
+  "devDependencies": {
+    "connect": "3.6.2",
+    "serve-static": "1.12.3"
+  },
+  "license": "GPL v3"
+}
